@@ -1,2 +1,2 @@
 # LondonInteractiveMap
-Shows all London B
+Shows all London Boroughs in an interactive HTML page.
